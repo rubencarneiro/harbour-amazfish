@@ -72,6 +72,12 @@ PageListPL {
             aliases: []
         }
 
+         ListElement {
+            deviceType: "Mi Watch Lite"
+            icon: "../pics/devices/miwatchlite.png"
+            auth: true
+        }
+
         ListElement {
             deviceType: "Amazfit GTS"
             icon: "../pics/devices/amazfit-gts.png"
